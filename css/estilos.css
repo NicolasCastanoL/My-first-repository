@@ -56,8 +56,10 @@
 
 #footer
 {
+    background: #714;
     font-size: 20px;
     padding: 0.5;
+    text-align: center;
 }
 
 #post
