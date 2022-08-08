@@ -54,3 +54,15 @@
     padding: 1em;
 }
 
+#footer
+{
+    font-size: 20px;
+    padding: 0.5;
+}
+
+#post
+{
+    background: white;
+    padding: 1em;
+}
+
