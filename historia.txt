@@ -7,3 +7,6 @@ aprendiendo git y github
 este es el cambioooooooo 
 
 mañana nos enfocaremos en su vida laboral
+
+Anita platzi tiene 41 años, contribuyó a este proyecto 
+opensource
